@@ -1,2 +1,2 @@
 # BushUpdater
-```chmod +x system_update.sh```
+```chmod +x update.sh```
