@@ -1,9 +1,9 @@
 !/usr/bin/bash
 
 set -e
-sudo apt-get update -y
-sudo apt-get full-upgrade -y
-sudo apt-get autoremove -y
-sudo apt-get dist-upgrade -y
-sudo apt-get clean -y
-sudo apt-get autoclean -y
+apt-get update -y
+apt-get full-upgrade -y
+apt-get autoremove -y
+apt-get dist-upgrade -y
+apt-get clean -y
+apt-get autoclean -y
